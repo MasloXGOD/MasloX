@@ -1,4 +1,5 @@
-	"my_goal" : "My goal is to be a good ruby programmer. And also in the future to transfer their knowledge to those who need it.",
+	{
+		"my_goal" : "My goal is to be a good ruby programmer. And also in the future to transfer their knowledge to those who need it.",
 		"programming_languages" : "c#, Java, visual basic, c++",
 		"have_a_job" : "Yes, service center Kacher Hard",
 		"laptop" : "Yes, win 10",
@@ -8,3 +9,4 @@
 		"hours_per_day" : "5-7",
 		"age" : "22",
 		"full_name" : "Alexandr Maslovskiy"
+	}
